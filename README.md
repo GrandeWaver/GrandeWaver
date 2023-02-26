@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+🔭 I’m currently working on <a href="https://www.figma.com/file/uMdi8la7iEOapXjQzzQd8i/Kaczma?node-id=0%3A1&t=BlwcQB6AOFsCuM7c-1">link to figma</a>
+
 <!--
 **GrandeWaver/GrandeWaver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
